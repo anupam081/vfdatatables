@@ -3,7 +3,7 @@
 * @date 18th November 2016
 * @description Provide example of using jQuery Data Tables with lightning design
 * 
-* CHANGE LOG
+* CHANGE LOG: added comments
 **/
 public with sharing class DataTablesController {
 	
