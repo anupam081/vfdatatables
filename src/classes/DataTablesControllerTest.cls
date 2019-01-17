@@ -3,7 +3,7 @@
 * @date 18th November 2016
 * @description Test class for DataTablesController
 * 
-* CHANGE LOG
+* CHANGE LOG ; This is test for branching and merging
 **/
 @isTest
 public class DataTablesControllerTest {
