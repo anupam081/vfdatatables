@@ -3,7 +3,7 @@
 * @date 18th November 2016
 * @description Provide example of using jQuery Data Tables with lightning design
 * 
-* CHANGE LOG: added comments
+* CHANGE LOG: added comments, adding more comments
 **/
 public with sharing class DataTablesController {
 	
@@ -14,7 +14,7 @@ public with sharing class DataTablesController {
 	/**
     *   @author Ben Edwards (ben@edwards.nz)
     *	@date 18th November 2016
-    *   @description Simple remoting method to return a list of contacts to the VF page.
+    *   @description Simple remoting method to return a list of contacts to the VF page. my comments here
     **/		
 	@ReadOnly 
 	@RemoteAction	
