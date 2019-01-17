@@ -19,7 +19,7 @@ public with sharing class DataTablesController {
 	@ReadOnly 
 	@RemoteAction	
 	public static List<Contact> getContacts () {
-
+		system.debug('In get Contacts');
 		return [
 			SELECT 
 				Id 
